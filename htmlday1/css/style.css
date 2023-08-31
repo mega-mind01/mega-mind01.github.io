@@ -1,0 +1,12 @@
+body{
+    width: 1000px;
+    margin: 100px 100px;
+}
+
+img{
+    float: left;
+    margin: 0 20px;
+}
+ol li::marker{
+    font-weight: bold;
+}
